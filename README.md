@@ -68,4 +68,4 @@ for Ui Run
  in jupiter fo pickel file making
  cd folder path
  then 
- python C:\Users\arthi\Desktop\diamond_price_prediction-master\diamond_price_predictor.py
+ python C:\Users\arthi\Desktop\diamond_price_prediction-master\diamond_price_predictor.py"# diamond_price_prediction-master" 
